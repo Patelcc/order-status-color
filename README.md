@@ -213,14 +213,5 @@ Disable module : PHP bin/magento static:content:deploy -f
 
 ### Result : 
 
-Open your browser, enter this link:
-
-~~~
-http://example.com/<router_name>/<controller_name>/<action_name>
-~~~
-
-
-If you have followed all above steps, you will see `Hello Mage` when open the url `http://example.com/hellomage/index/index`
-
-
-
+If you have followed all above steps, you will see result like below under `sales order grid`
+![Order status color](http://tinyurl.com/y6a683j5)
