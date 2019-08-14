@@ -209,3 +209,7 @@ Enable module  : PHP bin/magento S:d:c
 ~~~
 Disable module : PHP bin/magento static:content:deploy -f
 ~~~
+
+### Result :
+
+![Order Status color](https://i.imgur.com/DvquDAD.png)
