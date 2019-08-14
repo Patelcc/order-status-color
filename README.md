@@ -209,9 +209,3 @@ Enable module  : PHP bin/magento S:d:c
 ~~~
 Disable module : PHP bin/magento static:content:deploy -f
 ~~~
-
-
-### Result : 
-
-If you have followed all above steps, you will see result like below under `sales order grid`
-![Order status color](http://tinyurl.com/y6a683j5)
